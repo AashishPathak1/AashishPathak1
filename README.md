@@ -8,9 +8,13 @@
 
 ---
 
+<br><br>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🚀 About Me
+
+<br>
 
 ```java
 public class AashishPathak {
@@ -79,6 +83,11 @@ public class AashishPathak {
 
 ## 🏗️ Featured Projects
 
+<details>
+<summary>👇 Click to view my projects</summary>
+
+<br>
+
 ### 📚 ShowMyBooks – Book Recommendation System
 
 **Tech Stack:** Flask, Python, HTML, CSS, JavaScript
@@ -94,6 +103,8 @@ public class AashishPathak {
 - 📈 Analyzed global data on health, education, and economy
 - 🧮 Built interactive dashboards highlighting key metrics
 - 🔗 [View on GitHub](https://github.com/AashishPathak1)
+
+</details>
 
 ---
 
@@ -134,11 +145,16 @@ public class AashishPathak {
 
 ---
 
-## 🐍 GitHub Snake Game
+## ⚙️ Console Logs of a Developer
 
-<div align="center">
-  <img src="https://github.com/AashishPathak1/AashishPathak1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+```bash
+> npm start
+> Compiling awesome ideas... ✅
+> Fixing bugs... in production 😅
+> Deploying dreams to the cloud ☁️
+> Coffee level: Critical ☕
+> Motivation: 100% 🚀
+```
 
 ---
 
@@ -173,6 +189,9 @@ public class AashishPathak {
 ```java
 while(true) {
     code();
+    commit();
+    deploy();
+    coffee.refill();
     sleep(false); // Who needs sleep when you're shipping features? 🚀
 }
 ```
