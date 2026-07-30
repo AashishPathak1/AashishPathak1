@@ -1,209 +1,197 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, I'm **Aashish Pathak**
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Software+Developer;Development+Enthusiast;Building+Impactful+Website+Apps;)](https://git.io/typing-svg)
+
+# 📦 aashish-pathak
+
+**Software Developer building WordPress systems & React/Next.js frontends**
+
+![npm version](https://img.shields.io/badge/version-3.2.0-38BDF8?style=flat-square)
+![downloads](https://img.shields.io/badge/sites%20shipped-25%2B-3FB950?style=flat-square)
+![license](https://img.shields.io/badge/license-open--to--work-orange?style=flat-square)
+![node](https://img.shields.io/badge/available-full--time-blue?style=flat-square)
+
+```bash
+$ npm install aashish-pathak
+```
 
 </div>
 
 ---
 
-<br><br>
+<table width="100%">
+<tr>
+<td width="70%" valign="top">
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## Readme
 
-### 🚀 About Me
+Software Developer at **Mobrilz Pvt. Ltd.**, India. Specializes in custom WordPress plugin/theme architecture and React/Next.js frontends. Delivered and optimized **25+ production websites** across multiple industries in the last year.
 
-<br>
+### Highlights
 
-```java
-public class AashishPathak {
-    String role = "Software Developer";
-    String location = "India 🇮🇳";
-    String[] techStack = {"Flutter", "MERN", "Python", "Data Analytics"};
-    String[] focusAreas = {"App Development", "Full Stack Engineering", "Scalable APIs"};
-    String funFact = "I don't always test my code, but when I do — I do it in production 😅";
+- Custom WordPress plugin & theme development (OOP PHP)
+- WPML multilingual compatibility, WooCommerce, Elementor, WPBakery
+- React.js / Next.js frontend engineering
+- REST API integration, performance optimization, technical SEO
 
-    void dailyRoutine() {
-        System.out.println("☕ Coffee → 💻 Code → 🐞 Debug → 🚀 Deploy → 😴 Repeat");
-    }
+### `package.json`
+
+```json
+{
+  "name": "aashish-pathak",
+  "role": "Software Developer",
+  "company": "Mobrilz Pvt. Ltd.",
+  "location": "India",
+  "dependencies": {
+    "php": "^8.x",
+    "javascript": "es2023",
+    "react": "^18.x",
+    "next": "^14.x",
+    "mysql": "^8.x",
+    "wordpress": "^6.x"
+  },
+  "devDependencies": {
+    "laravel": "learning",
+    "software-architecture": "learning",
+    "design-patterns": "learning"
+  },
+  "scripts": {
+    "build": "ship-client-site",
+    "test": "audit-core-web-vitals",
+    "deploy": "publish-to-production"
+  }
 }
 ```
 
----
+</td>
+<td width="30%" valign="top">
 
-## 🧠 Tech Arsenal
+### Info
 
-<div align="center">
+| | |
+|---|---|
+| **Version** | 3.2.0 |
+| **Role** | Software Developer |
+| **Company** | Mobrilz Pvt. Ltd. |
+| **Since** | Feb 2025 |
+| **Location** | India 🇮🇳 |
+| **Homepage** | [GitHub](https://github.com/theaashishpathak) |
+| **Weekly builds** | 2-3 sites |
+| **Unpacked focus** | WordPress + React |
 
-### Frontend & Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### Data & Analytics
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Cloud & Tools
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### CMS & Builders
-
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
-![Wix](https://img.shields.io/badge/wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
-
-</div>
-
----
-
-## 🏗️ Featured Projects
-
-<details>
-<summary>👇 Click to view my projects</summary>
-
-<br>
-
-### 📚 ShowMyBooks – Book Recommendation System
-
-**Tech Stack:** Flask, Python, HTML, CSS, JavaScript
-
-- 📊 Recommends books based on user preferences using ML algorithms
-- ☁️ Deployed on Render with scalable backend
-- 🔗 [View on GitHub](https://github.com/AashishPathak1)
-
-### 🌍 Life Expectancy Analysis
-
-**Tech Stack:** Power BI, DAX, Data Cleaning
-
-- 📈 Analyzed global data on health, education, and economy
-- 🧮 Built interactive dashboards highlighting key metrics
-- 🔗 [View on GitHub](https://github.com/AashishPathak1)
-
-</details>
-
----
-
-## 💼 Experience
-
-### 💼 Jr. Software Developer @ Mobrilz Pvt. Ltd. (May 2025 – Present)
-
-- 🚀 Built cross-platform Flutter apps and WordPress websites for clients
-- ⚙️ Collaborated with a 4-member team on mobile & web projects
-- 🧩 Integrated APIs and optimized UI for performance
-
-### 👨‍💻 Software Developer Intern @ Mobrilz Pvt. Ltd. (Feb 2025 – May 2025)
-
-- 🌱 Learned Flutter & WordPress from scratch
-- 🧠 Assisted senior devs in debugging, testing, and deployment
-
----
-
-## 🏆 Certifications
-
-- 🐍 **Python (Basic)** – HackerRank
-- 💡 **Problem Solving** – HackerRank
-- ☁️ **AWS Cloud Foundation** – AWS Academy
-- 📊 **Data Analytics (Grade B)** – Capgemini
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AashishPathak1&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AashishPathak1&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AashishPathak1&theme=tokyonight" />
-</div>
-
----
-
-## ⚙️ Console Logs of a Developer
+### Install
 
 ```bash
-> npm start
-> Compiling awesome ideas... ✅
-> Fixing bugs... in production 😅
-> Deploying dreams to the cloud ☁️
-> Coffee level: Critical ☕
-> Motivation: 100% 🚀
+git clone
+  github.com/theaashishpathak
+
+cd aashish-pathak
+npm run collaborate
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📦 Published Packages — Featured Projects
+
+<table width="100%">
+<tr><th align="left">Package</th><th align="left">Version</th><th align="left">Description</th></tr>
+<tr>
+<td><code>wp-healthcare-booking</code></td>
+<td><img src="https://img.shields.io/badge/-v1.0.0--beta-3FB950?style=flat-square"/></td>
+<td>Flagship WordPress plugin — appointment booking, doctor management, WPML ready</td>
+</tr>
+<tr>
+<td><code>music-store</code></td>
+<td><img src="https://img.shields.io/badge/-v2.0.0-38BDF8?style=flat-square"/></td>
+<td>React + iTunes API music discovery app w/ favorites & skeleton loading</td>
+</tr>
+<tr>
+<td><code>gallery-layout-plugin</code></td>
+<td><img src="https://img.shields.io/badge/-v1.4.0-38BDF8?style=flat-square"/></td>
+<td>WordPress plugin — masonry/grid gallery with lightbox & shortcodes</td>
+</tr>
+<tr>
+<td><code>personal-portfolio</code></td>
+<td><img src="https://img.shields.io/badge/-v1.0.0-38BDF8?style=flat-square"/></td>
+<td>Next.js + Tailwind, dark theme, SEO optimized</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,js,mysql,react,nextjs,tailwind,wordpress,woocommerce,git,github,vscode&perline=6" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
+<img src="https://img.shields.io/badge/WPBakery-2B2E4A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WPML-3E4041?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-38BDF8?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🕘 Commit History — Experience
+
+```
+$ git log --oneline --graph --decorate
+
+* a1b2c3d (HEAD -> main, tag: current) React frontends + REST API integrations
+* f4e5d6c                              WPML multilingual rollout across client sites
+* 9c8b7a6                              25+ production websites delivered
+* 2d3e4f5 (tag: v2.0.0)                Promoted: Software Developer @ Mobrilz Pvt. Ltd.
+* 7g8h9i0                              Assisted senior devs — debugging & deployment
+* 1j2k3l4 (tag: v1.0.0)                Joined Mobrilz as Software Developer Intern
 ```
 
 ---
 
-## 💡 Random Dev Quote
+## 📊 Dependency Graph — GitHub Stats
 
 <div align="center">
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theaashishpathak&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaashishpathak&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theaashishpathak&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theaashishpathak&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff" width="90%"/>
+</div>
+
+---
+
+## 🎲 `require('random-fact')`
+
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect & Collaborate
-
 <div align="center">
+
+### Maintainers
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aashish-pathak)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AashishPathak1)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theaashishpathak)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashishpathak@example.com)
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=theaashishpathak&color=38BDF8&style=for-the-badge)
 
----
-
-<div align="center">
-
-### 💻 "Code. Debug. Deploy. Repeat."
-
-### 😴 Sleep is just a runtime error I haven't handled yet.
-
-```java
-while(true) {
-    code();
-    commit();
-    deploy();
-    coffee.refill();
-    sleep(false); // Who needs sleep when you're shipping features? 🚀
-}
-```
-
-### ⭐ Star my repos if you find them interesting!
-
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=AashishPathak1&color=blueviolet&style=for-the-badge)
+*Published and maintained by Aashish Pathak. Issues and collaboration requests welcome.*
 
 </div>
